@@ -1,0 +1,70 @@
+---
+title: "Honours & Records"
+subtitle: "Trophies, awards, and career milestones"
+---
+
+## Club honours
+
+| Club | Competition | Notes |
+|---|---|---|
+| AS Monaco | Ligue 1 | 2016–17 |
+| Paris Saint-Germain | Ligue 1 | Multiple titles (2018, 2019, 2020, 2022, 2023, 2024) |
+| Paris Saint-Germain | Coupe de France | Multiple titles |
+| Paris Saint-Germain | Trophée des Champions | Multiple titles |
+| Paris Saint-Germain | UEFA Champions League | Runner-up, 2020 |
+| Real Madrid | Ongoing | Domestic & European competition since 2024 |
+
+## International honours
+
+| Competition | Result | Year |
+|---|---|---|
+| FIFA World Cup | 🏆 Winner | 2018 |
+| FIFA World Cup | Runner-up | 2022 |
+| UEFA European Championship | Round of 16 exit | 2020 (2021) |
+| UEFA European Championship | Semi-final | 2024 |
+| UEFA Nations League | Runner-up | 2021 |
+
+## Individual awards
+
+| Award | Year(s) |
+|---|---|
+| Ligue 1 Young Player of the Year | 2017 |
+| World Cup Best Young Player | 2018 |
+| World Cup Golden Boot (top scorer) | 2022 |
+| Ligue 1 Player of the Year | Multiple seasons |
+| Ligue 1 top scorer | Multiple seasons |
+| UNFP Ligue 1 Team of the Year | Multiple seasons |
+| Kopa Trophy nominee generation / Ballon d'Or runner-up | 2021, 2022 (finished 2nd) |
+
+## Career milestones
+
+::: {.stat-grid}
+::: {.stat-card}
+[2015]{.stat-number}
+[Youngest Monaco debutant]{.stat-label}
+:::
+::: {.stat-card}
+[19]{.stat-number}
+[Age at 1st World Cup title]{.stat-label}
+:::
+::: {.stat-card}
+[8]{.stat-number}
+[Goals, 2022 World Cup]{.stat-label}
+:::
+::: {.stat-card}
+[3]{.stat-number}
+[Goals in 2022 WC Final]{.stat-label}
+:::
+:::
+
+### Notable records
+
+- **Youngest player to score in a World Cup final since Pelé** (1958) — achieved at the 2018 final.
+- One of only two players in history to **score a hat-trick in a World Cup final**, alongside Geoff Hurst (1966).
+- Among the **most expensive teenage transfers in football history** following his move to PSG.
+- Became **PSG's all-time leading goalscorer**, surpassing Edinson Cavani.
+- Rose to become one of **France's all-time top international goalscorers**.
+
+::: {.callout-note}
+Trophy counts and records are current as of this site's last update and are not automatically refreshed — always check an up-to-date source for the latest statistics.
+:::

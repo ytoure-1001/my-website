@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Kylian Mbappé"
+  description: "A fan site covering the career, achievements, and legacy of Kylian Mbappé."
+  navbar:
+    background: dark
+    left:
+      - href: index.qmd
+        text: Home
+      - href: biography.qmd
+        text: Biography
+      - href: club-career.qmd
+        text: Club Career
+      - href: international.qmd
+        text: International
+      - href: honours.qmd
+        text: Honours & Records
+    right:
+      - icon: github
+        href: https://github.com
+        aria-label: GitHub
+  page-footer:
+    left: "© 2026 · Unofficial fan site, for educational purposes."
+    right: "Built with [Quarto](https://quarto.org)"
+  sidebar: false
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+    toc-location: right
+    number-sections: false
+    fontsize: 1.05em
+    linkcolor: "#003087"
+    grid:
+      body-width: 900px

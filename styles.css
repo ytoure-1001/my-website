@@ -1,0 +1,91 @@
+/* Kylian Mbappé fan site — shared styles */
+
+:root {
+  --mbappe-blue: #003087;
+  --mbappe-red: #ED2939;
+}
+
+.hero-banner {
+  background: linear-gradient(135deg, var(--mbappe-blue) 0%, #1a1a2e 100%);
+  color: #fff;
+  padding: 3.5rem 2rem;
+  border-radius: 0.5rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.hero-banner h1 {
+  color: #fff;
+  font-size: 2.6rem;
+  margin-bottom: 0.25rem;
+}
+
+.hero-banner p {
+  font-size: 1.15rem;
+  opacity: 0.9;
+  margin: 0;
+}
+
+.stat-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.stat-card {
+  background: var(--bs-body-bg, #f8f9fa);
+  border: 1px solid rgba(0,0,0,0.08);
+  border-radius: 0.5rem;
+  padding: 1.25rem 1rem;
+  text-align: center;
+}
+
+.stat-card .stat-number {
+  font-size: 1.9rem;
+  font-weight: 700;
+  color: var(--mbappe-blue);
+  display: block;
+}
+
+.stat-card .stat-label {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  opacity: 0.75;
+}
+
+.timeline {
+  border-left: 3px solid var(--mbappe-blue);
+  margin-left: 1rem;
+  padding-left: 1.5rem;
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: 1.75rem;
+}
+
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  left: -1.95rem;
+  top: 0.3rem;
+  width: 0.8rem;
+  height: 0.8rem;
+  border-radius: 50%;
+  background: var(--mbappe-red);
+}
+
+.timeline-item .year {
+  font-weight: 700;
+  color: var(--mbappe-blue);
+}
+
+.callout-quote {
+  border-left: 4px solid var(--mbappe-red);
+  padding: 0.75rem 1.25rem;
+  font-style: italic;
+  background: rgba(0,48,135,0.05);
+  margin: 1.5rem 0;
+}
